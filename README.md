@@ -16,3 +16,4 @@ The activities in the pipeline includes:
   *  leverages DocumentArray's match function and searches the k nearest neighbors for the query Document based on their embedding field 
   *  utilizes ranking to find the best match as final result
   
+![Knowledge-based-semantic-search](Knowledge-based-semantic-search.png)
